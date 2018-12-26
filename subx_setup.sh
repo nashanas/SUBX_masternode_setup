@@ -14,6 +14,7 @@ GIT_SOURCE_URL="https://github.com/EXISTDevv/SUBXMN.git"
 MASTERNODE=1
 COIN_NAME="SUBXMN"
 CONF_FILE="subx.conf"
+HOME/root/
 n=1
 max=5 #count your masternode
 DATADIR=".subxmn"
